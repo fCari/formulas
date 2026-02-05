@@ -1,0 +1,75 @@
+{
+  "formulas": [
+    {
+      "id": "formula-1",
+      "nombre": "Teorema de Pitágoras",
+      "formula_latex": "a^2 + b^2 = c^2",
+      "descripcion": "Relación entre los lados de un triángulo rectángulo",
+      "archivo_md": "geometria.md",
+      "url": "https://ejemplo.com/geometria.md",
+      "youtube_url": "https://www.youtube.com/watch?v=AA6RfgP-AHU",
+      "youtube_embed": "https://www.youtube.com/embed/AA6RfgP-AHU",
+      "categoria": "Geometría",
+      "duracion": "5:30",
+      "canal": "Matemáticas Fáciles"
+    },
+    {
+      "id": "formula-2",
+      "nombre": "Fórmula cuadrática",
+      "formula_latex": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "descripcion": "Solución para ecuaciones cuadráticas",
+      "archivo_md": "algebra.md",
+      "url": "https://ejemplo.com/algebra.md",
+      "youtube_url": "https://www.youtube.com/watch?v=MHXO86wKeDY",
+      "youtube_embed": "https://www.youtube.com/embed/MHXO86wKeDY",
+      "categoria": "Álgebra",
+      "duracion": "8:15",
+      "canal": "Khan Academy Español"
+    },
+    {
+      "id": "formula-3",
+      "nombre": "Identidad de Euler",
+      "formula_latex": "e^{i\\pi} + 1 = 0",
+      "descripcion": "Relación fundamental entre constantes matemáticas",
+      "archivo_md": "analisis.md",
+      "url": "https://ejemplo.com/analisis.md",
+      "youtube_url": "https://www.youtube.com/watch?v=IUTGFQpKaPU",
+      "youtube_embed": "https://www.youtube.com/embed/IUTGFQpKaPU",
+      "categoria": "Análisis",
+      "duracion": "12:45",
+      "canal": "Veritasium en español"
+    },
+    {
+      "id": "formula-4",
+      "nombre": "Ley de Gravitación Universal",
+      "formula_latex": "F = G \\frac{m_1 m_2}{r^2}",
+      "descripcion": "Fuerza gravitatoria entre dos masas",
+      "archivo_md": "fisica.md",
+      "url": "https://ejemplo.com/fisica.md",
+      "youtube_url": "https://www.youtube.com/watch?v=ggP32UFeHl4",
+      "youtube_embed": "https://www.youtube.com/embed/ggP32UFeHl4",
+      "categoria": "Física",
+      "duracion": "7:20",
+      "canal": "Física para Todos"
+    },
+    {
+      "id": "formula-5",
+      "nombre": "Ecuación de Schrödinger",
+      "formula_latex": "i\\hbar\\frac{\\partial}{\\partial t}\\Psi = \\hat{H}\\Psi",
+      "descripcion": "Ecuación fundamental de la mecánica cuántica",
+      "archivo_md": "cuantica.md",
+      "url": "https://ejemplo.com/cuantica.md",
+      "youtube_url": "https://www.youtube.com/watch?v=QeUMFo8sODk",
+      "youtube_embed": "https://www.youtube.com/embed/QeUMFo8sODk",
+      "categoria": "Física Cuántica",
+      "duracion": "15:10",
+      "canal": "QuantumFracture"
+    }
+  ],
+  "metadata": {
+    "total_formulas": 5,
+    "categorias": ["Geometría", "Álgebra", "Análisis", "Física", "Física Cuántica"],
+    "ultima_actualizacion": "2024-01-15",
+    "origen_videos": "YouTube Educational Channels"
+  }
+}
