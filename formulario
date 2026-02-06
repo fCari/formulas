@@ -3,7 +3,7 @@
     {
       "id": "formula-1",
       "nombre": "Teorema de Pitágoras",
-      "formula_latex": "$$\n a^2 + b^2 = c^2 \n$$",
+      "formula_latex": "\n a^2 + b^2 = c^2 \n",
       "descripcion": "Relación entre los lados de un triángulo rectángulo",
       "archivo_md": "geometria.md",
       "url": "https://ejemplo.com/geometria.md",
