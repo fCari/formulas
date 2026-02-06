@@ -16,7 +16,7 @@
     {
       "id": "formula-2",
       "nombre": "Fórmula cuadrática",
-      "formula_latex": "x=\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}",
+      "formula_latex": "$$\n x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}\n$$",
       "descripcion": "Solución para ecuaciones cuadráticas",
       "archivo_md": "algebra.md",
       "url": "https://ejemplo.com/algebra.md",
