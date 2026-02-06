@@ -3,7 +3,7 @@
     {
       "id": "formula-1",
       "nombre": "Teorema de Pitágoras",
-      "formula_latex": "\n a^2 + b^2 = c^2 \n",
+      "formula_latex": " a^2 + b^2 = c^2 ",
       "descripcion": "Relación entre los lados de un triángulo rectángulo",
       "archivo_md": "geometria.md",
       "url": "https://ejemplo.com/geometria.md",
@@ -16,7 +16,7 @@
     {
       "id": "formula-2",
       "nombre": "Fórmula cuadrática",
-      "formula_latex": "$$\n x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}\n$$",
+      "formula_latex": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
       "descripcion": "Solución para ecuaciones cuadráticas",
       "archivo_md": "algebra.md",
       "url": "https://ejemplo.com/algebra.md",
