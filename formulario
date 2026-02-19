@@ -1,7 +1,7 @@
 {
   "courses": [
     {
-      "id": "matematicas",
+      "id": "matematicas 2",
       "title": "Matemáticas",
       "description": "Fórmulas y conceptos matemáticos fundamentales",
       "icon": "calculator",
@@ -9,12 +9,12 @@
       "topics": [
         {
           "id": "algebra",
-          "title": "Álgebra",
+          "title": "Álgebra2",
           "description": "Fórmulas algebraicas básicas",
           "icon": "functions",
           "formulas": [
             {
-              "id": "cuadratica",
+              "id": "cuadratica3",
               "name": "Ecuación Cuadrática",
               "description": "Fórmula para resolver ecuaciones de segundo grado",
               "latex": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
