@@ -26,7 +26,7 @@
               "name": "Ecuación Cuadrática",
               "description": "Fórmula para resolver ecuaciones de segundo grado",
               "latex": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
-              "videoUrl": "https://www.youtube.com/watch?v=EBVbqB2sSM",
+              "videoUrl": null,
               "imgUrl": "https://www.youtube.com/watch?v=EBVbqB2sSM"
             }
           ]
