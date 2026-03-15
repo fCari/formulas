@@ -18,14 +18,16 @@
               "name": "Ecuación Cuadrática",
               "description": "Fórmula para resolver ecuaciones de segundo grado",
               "latex": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
-              "videoUrl": "https://www.youtube.com/watch?v=EBVbqB2sSM"
+              "videoUrl": "https://www.youtube.com/watch?v=EBVbqB2sSM",
+              "pdfUrl": "https://www.youtube.com/watch?v=EBVbqB2sSM"
             },
             {
               "id": "cuadratica4",
               "name": "Ecuación Cuadrática",
               "description": "Fórmula para resolver ecuaciones de segundo grado",
               "latex": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
-              "videoUrl": "https://www.youtube.com/watch?v=EBVbqB2sSM"
+              "videoUrl": "https://www.youtube.com/watch?v=EBVbqB2sSM",
+              "pdfUrl": "https://www.youtube.com/watch?v=EBVbqB2sSM"
             }
           ]
         }
